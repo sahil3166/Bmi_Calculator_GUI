@@ -203,6 +203,7 @@ class Ui_MainWindow(object):
         self.lineEdit_feet.clear()
         self.lineEdit_inches.clear()
         self.lineEdit_kgs.clear()
+        self.label_ans.clear()
 
     def retranslateUi(self, MainWindow):
         _translate = QtCore.QCoreApplication.translate
